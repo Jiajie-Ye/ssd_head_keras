@@ -1,3 +1,7 @@
+Change the version of tensorflow-gpu from 1.14 to 1.10
+By will Yip
+2020.05.26
+
 SSD-based head detector
 ======
 
